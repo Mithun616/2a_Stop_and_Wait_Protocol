@@ -65,6 +65,7 @@ while True:
 
 ### Server
 <img width="778" height="188" alt="Screenshot 2025-08-28 104557" src="https://github.com/user-attachments/assets/f8afc634-46cd-4db1-9f71-b5542ce0873e" />
+
 ### Client
 <img width="782" height="189" alt="Screenshot 2025-08-28 104803" src="https://github.com/user-attachments/assets/a6841937-7131-48b9-a166-aa76b3d89e5a" />
 
